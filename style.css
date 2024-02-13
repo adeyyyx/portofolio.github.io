@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #fade83;
+}
+
+#projek {
+  background-color: #fade83;
+}
+section {
+  padding-top: 4rem;
+}
+
+.navbar {
+  background-color: transparent;
+  transition: background-color 0.5s ease-in-out;
+}
+.navbar-scrolled {
+  background-color: yellow;
+}
